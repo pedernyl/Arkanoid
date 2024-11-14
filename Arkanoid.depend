@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1731574644 source:/home/peder/Dokumenter/code/c++/Arkanoid/main.cpp
+	<SFML/Graphics.hpp>
+	<vector>
+
